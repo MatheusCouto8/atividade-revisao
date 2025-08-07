@@ -34,7 +34,7 @@ export const products = [
     },
     {
         category: "laptops",
-        image: null,
+        image: "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=300&h=200&fit=crop",
         alt: "Dell XPS",
         title: "Dell XPS 13 Intel i7 16GB SSD 512GB",
         price: "R$ 6.799,00",
@@ -46,7 +46,7 @@ export const products = [
     },
     {
         category: "tablets",
-        image: null,
+        image: "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=300&h=200&fit=crop",
         alt: "iPad Pro",
         title: 'iPad Pro 12.9" M2 WiFi 128GB',
         price: "R$ 7.299,00",
@@ -58,7 +58,7 @@ export const products = [
     },
     {
         category: "tablets",
-        image: null,
+        image: "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=300&h=200&fit=crop",
         alt: "Galaxy Tab",
         title: "Samsung Galaxy Tab S9+ 256GB",
         price: "R$ 4.999,00",
@@ -70,7 +70,7 @@ export const products = [
     },
     {
         category: "acessorios",
-        image: null,
+        image: "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=300&h=200&fit=crop",
         alt: "AirPods Pro",
         title: "Apple AirPods Pro 2ª Geração",
         price: "R$ 2.399,00",
@@ -82,7 +82,7 @@ export const products = [
     },
     {
         category: "acessorios",
-        image: null,
+        image: "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=300&h=200&fit=crop",
         alt: "Apple Watch",
         title: "Apple Watch Series 9 GPS 45mm",
         price: "R$ 4.299,00",
@@ -94,7 +94,7 @@ export const products = [
     },
     {
         category: "acessorios",
-        image: null,
+        image: "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=300&h=200&fit=crop",
         alt: "Carregador",
         title: "Carregador Sem Fio MagSafe 15W",
         price: "R$ 399,00",
@@ -106,7 +106,7 @@ export const products = [
     },
     {
         category: "smartphones",
-        image: null,
+        image: "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=300&h=200&fit=crop",
         alt: "Xiaomi",
         title: "Xiaomi 13 Pro 256GB Leica",
         price: "R$ 3.999,00",

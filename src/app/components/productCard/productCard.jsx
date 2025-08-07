@@ -9,8 +9,8 @@ export default function ProductCard({ product }) {
                     <Image
                         src={product.image}
                         alt={product.title}
-                        width={300}
-                        height={200}
+                        fill
+                        style={{ objectFit: 'cover' }}
                     />
                 </div>
                 <div className={styles.productTitle}>{product.title}</div>
